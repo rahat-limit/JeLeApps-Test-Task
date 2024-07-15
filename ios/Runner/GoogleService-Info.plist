@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>API_KEY</key>
+	<string>AIzaSyAKYX0T7jOxqKN41dIeB5CL2p29q8XqlCY</string>
+	<key>GCM_SENDER_ID</key>
+	<string>83358031084</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.example.jeleAppsTestTask</string>
+	<key>PROJECT_ID</key>
+	<string>je-le-apps-test-task</string>
+	<key>STORAGE_BUCKET</key>
+	<string>je-le-apps-test-task.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:83358031084:ios:938bc32d2e26122583d9c9</string>
+</dict>
+</plist>

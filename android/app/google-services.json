@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "83358031084",
+    "project_id": "je-le-apps-test-task",
+    "storage_bucket": "je-le-apps-test-task.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:83358031084:android:c142de270ebaca4483d9c9",
+        "android_client_info": {
+          "package_name": "jle.apps.test"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD1N_70NpHYglODPhAXOM-aUIVTvb7z-rY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
